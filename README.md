@@ -53,7 +53,7 @@ The data comes from a Kaggle competition and includes:
 ## Connect
 
 - GitHub: [@kendrickhn](https://github.com/kendrickhn)
-- Kaggle: [Your Kaggle Profile Link]
+- Kaggle: [@kendrickhn](https://www.kaggle.com/kendrickdhnguyen)
 
 ---
 
