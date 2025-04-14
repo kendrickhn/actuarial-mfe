@@ -1,0 +1,22 @@
+# Ignore data files
+data/*.csv
+data/*.zip
+
+# Ignore notebook autosaves
+**/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment files
+.env
+*.env
+
+# Output files
+output/*.csv
+output/*.json
+
+# System files
+.DS_Store
