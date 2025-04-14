@@ -20,3 +20,4 @@ output/*.json
 
 # System files
 .DS_Store
+.vscode
