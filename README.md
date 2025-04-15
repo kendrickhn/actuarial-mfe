@@ -1,7 +1,7 @@
 # Used Car Price Prediction: EDA + Baseline Model
 
 This project is part of my data science portfolio, aiming to predict the **selling price** of used cars based on key features like mileage, engine size, brand, and more. The goal is to support smarter car buying decisions and pricing strategies using data.
-
+--
 ## Dataset
 
 The data comes from a Kaggle competition and includes:
@@ -9,7 +9,7 @@ The data comes from a Kaggle competition and includes:
 - `train.csv`: historical car sales with features and selling price
 - `test.csv`: features only (no price)
 - `sample.csv`: template for competition submission
-
+--
 ## Project Structure
 
 - `notebooks/used_car_model.ipynb`: full exploration + baseline modeling
@@ -32,14 +32,14 @@ The data comes from a Kaggle competition and includes:
    - Trained a baseline Linear Regression model
    - Evaluated performance using MAE & RMSE
    - Visualized feature importance
-
+--
 ## Performance
 
-| Metric | Value     |
-|--------|-----------|
-| MAE    | ~ xxx     |
-| RMSE   | ~ xxx     |
-
+| Metric       | Value             |
+|--------------|-------------------|
+| MAE          | 172,060.51        |
+| MSE          | 105,478,156,675.32|
+--
 ## Example Visuals
 
 
