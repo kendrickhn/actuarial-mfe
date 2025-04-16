@@ -1,6 +1,6 @@
 # Used Car Price Prediction: EDA + Baseline Model
 
-This project is part of my data science portfolio, aiming to predict the **selling price** of used cars based on key features like mileage, engine size, brand, and more. The goal is to support smarter car buying decisions and pricing strategies using data.
+This project is part of my data science portfolio, aiming to predict the **selling price** of used cars based on key features like mileage, engine size, brand, and more. The goal is to support smarter car buying decisions and pricing strategies using this dataset.
 --
 ## Dataset
 
