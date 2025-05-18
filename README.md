@@ -1,5 +1,5 @@
 # Used Car Price Prediction: EDA + Baseline Model
-[![View on Kaggle](https://img.shields.io/badge/Kaggle-View-blue?logo=kaggle)](https://www.kaggle.com/code/kendricknguyen/used-car-price-prediction-vietnam)
+[![View on Kaggle](https://img.shields.io/badge/Kaggle-View-blue?logo=kaggle)](https://www.kaggle.com/code/kendrickdhnguyen/used-car-pricing-baseline-eda-model)
 This project is part of my data science portfolio, aiming to predict the **selling price** of used cars based on key features like mileage, engine size, brand, and more. The goal is to support smarter car buying decisions and pricing strategies using this dataset.
 --
 ## Dataset
